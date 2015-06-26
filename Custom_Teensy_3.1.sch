@@ -3721,30 +3721,16 @@ But it's important to get a clean, noise free 3.3V power supply and it should be
 </net>
 <net name="SDA" class="0">
 <segment>
-<pinref part="U3" gate="G$1" pin="P3.4"/>
-<wire x1="104.14" y1="-162.56" x2="132.08" y2="-162.56" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="-162.56" x2="132.08" y2="-187.96" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="-187.96" x2="208.28" y2="-187.96" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="-187.96" x2="208.28" y2="-63.5" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="PTB3"/>
-<wire x1="208.28" y1="-63.5" x2="203.2" y2="-63.5" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="-63.5" x2="226.06" y2="-63.5" width="0.1524" layer="91"/>
-<junction x="208.28" y="-63.5"/>
+<wire x1="203.2" y1="-63.5" x2="226.06" y2="-63.5" width="0.1524" layer="91"/>
 <label x="226.06" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SCL" class="0">
 <segment>
-<pinref part="U3" gate="G$1" pin="P3.5"/>
-<wire x1="104.14" y1="-165.1" x2="129.54" y2="-165.1" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="-165.1" x2="129.54" y2="-190.5" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="-190.5" x2="210.82" y2="-190.5" width="0.1524" layer="91"/>
-<wire x1="210.82" y1="-190.5" x2="210.82" y2="-60.96" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="PTB2"/>
-<wire x1="210.82" y1="-60.96" x2="203.2" y2="-60.96" width="0.1524" layer="91"/>
-<junction x="210.82" y="-60.96"/>
+<wire x1="203.2" y1="-60.96" x2="226.06" y2="-60.96" width="0.1524" layer="91"/>
 <label x="226.06" y="-60.96" size="1.778" layer="95"/>
-<wire x1="210.82" y1="-60.96" x2="226.06" y2="-60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$19" class="0">

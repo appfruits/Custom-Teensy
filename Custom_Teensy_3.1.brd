@@ -1356,32 +1356,10 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="37.815" y1="17.6344" x2="37.815" y2="17.625" width="0.2032" layer="1"/>
 </signal>
 <signal name="SDA">
-<contactref element="U3" pad="9"/>
 <contactref element="U1" pad="38"/>
-<wire x1="33.365" y1="23.575" x2="33.3756" y2="23.539" width="0.254" layer="1"/>
-<via x="53.086" y="16.764" extent="1-16" drill="0.3302"/>
-<wire x1="53.086" y1="16.764" x2="53.086" y2="17.399" width="0.2032" layer="16"/>
-<wire x1="53.086" y1="17.399" x2="50.165" y2="20.32" width="0.2032" layer="16"/>
-<via x="34.29" y="20.32" extent="1-16" drill="0.3302"/>
-<wire x1="50.165" y1="20.32" x2="34.29" y2="20.32" width="0.2032" layer="16"/>
-<wire x1="34.29" y1="20.32" x2="33.365" y2="21.245" width="0.2032" layer="1"/>
-<wire x1="33.365" y1="21.245" x2="33.365" y2="23.575" width="0.2032" layer="1"/>
-<wire x1="53.066" y1="10.3844" x2="53.066" y2="16.744" width="0.2032" layer="1"/>
-<wire x1="53.066" y1="16.744" x2="53.086" y2="16.764" width="0.2032" layer="1"/>
 </signal>
 <signal name="SCL">
-<contactref element="U3" pad="10"/>
 <contactref element="U1" pad="37"/>
-<wire x1="33.865" y1="23.575" x2="33.8582" y2="23.531" width="0.254" layer="1"/>
-<wire x1="53.566" y1="10.3844" x2="53.566" y2="16.1264" width="0.2032" layer="1"/>
-<wire x1="53.566" y1="16.1264" x2="54.2036" y2="16.764" width="0.2032" layer="1"/>
-<via x="54.2036" y="16.764" extent="1-16" drill="0.3302"/>
-<wire x1="54.2036" y1="16.8656" x2="50.1142" y2="20.955" width="0.2032" layer="16"/>
-<via x="34.671" y="20.955" extent="1-16" drill="0.3302"/>
-<wire x1="50.1142" y1="20.955" x2="34.671" y2="20.955" width="0.2032" layer="16"/>
-<wire x1="34.671" y1="20.955" x2="33.865" y2="21.761" width="0.2032" layer="1"/>
-<wire x1="33.865" y1="21.761" x2="33.865" y2="23.575" width="0.2032" layer="1"/>
-<wire x1="54.2036" y1="16.764" x2="54.2036" y2="16.8656" width="0.2032" layer="16"/>
 </signal>
 <signal name="N$19">
 <contactref element="U3" pad="20"/>
