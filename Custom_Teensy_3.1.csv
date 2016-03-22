@@ -1,4 +1,4 @@
-"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PROD_ID";"VALUE";""
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PROD_ID";"VALUE";
 "1";"";"LED-GREEN";"LED-0603";"LED1";"LEDs";"Avago";"HSMG-C190";"";"";"";"";
 "10";"0.1uF";"CAPACITOR-0.1UF";"0603-CAP";"C2, C4, C5, C11, C14, C16, C18, C19, C21, C22";"";"Kemet";"C0603C104J3RACTU";"";"";"";"0.1uF";
 "1";"1.2M";"RESISTOR-1.2M";"0603-RES";"R7";"Resistor";"Panasonic";"ERJ-3GEYJ125V";"";"";"";"1.2M";
